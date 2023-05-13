@@ -1,11 +1,10 @@
 import syncedlyrics
 #-------------------------------------------------------
-name = "Mahika" # Choose your own
-artist = "Adie" # Choose your own
+name = "Down & out SpySki, raspi" # Choose your own
+artist = "Landon Cube" # Choose your own
 #-------------------------------------------------------
 
 link = "not found"
-
 lrc = syncedlyrics.search(name + " " + artist)
 
 #print(lrc)

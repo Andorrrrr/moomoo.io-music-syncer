@@ -1,7 +1,7 @@
 import syncedlyrics
 #-------------------------------------------------------
-name = "Mahika"
-artist = "Adie"
+name = "Down & Out" # Choose your own
+artist = "Landon CUbe" # Choose your own
 #-------------------------------------------------------
 
 link = "not found"
