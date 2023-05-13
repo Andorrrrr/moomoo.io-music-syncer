@@ -1,7 +1,7 @@
 import syncedlyrics
 #-------------------------------------------------------
-name = "i see london i see france"
-artist = "bbno$"
+name = "Mahika"
+artist = "Adie"
 #-------------------------------------------------------
 
 link = "not found"
